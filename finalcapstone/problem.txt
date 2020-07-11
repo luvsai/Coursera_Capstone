@@ -1,0 +1,3 @@
+ : Problem:
+    A restaurant near an isolate location draws less customers . where a restaurant near a shopping mall or a movie theatre draws more customers.Our goal of this report is to examine the present data on the list of neighborhoods and venues in the city  of Toronto. We are concerned with the presence of an Indian restaurant in  a neighborhood . We have to find correlation of the indian restaurant with the other venues . We should train a model that predicts the possibility and presence of an Indian restaurant in  that neighborhood. 
+
